@@ -1,4 +1,3 @@
-# Saurish Chakrabarty
 I teach physics at [Acharya Prafulla Chandra College](http://www.apccollege.ac.in/), New Barrackpore.
 
 #### Education
