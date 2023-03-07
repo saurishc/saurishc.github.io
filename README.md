@@ -4,8 +4,8 @@ I teach physics at [Acharya Prafulla Chandra College](http://www.apccollege.ac.i
 Ph.D. in Physics from [Washington University in St. Louis](https://physics.wustl.edu/)\
 M.Sc. in Physics from [I.I.T. Bombay](https://www.phy.iitb.ac.in/)\
 B.Sc. Physics Honours from [St. Xavier's College, Kolkata](https://www.sxccal.edu/)\
-+2 from [St. Patrick's Higher Secondary School, Asansol](http://stpatricksschoolasansol.in/)\
-Class 10 from [St. Vincent's High & Technical School, Asansol](http://stvincentsschoolasansol.in/)
++2 (I.S.C.) from [St. Patrick's Higher Secondary School, Asansol](http://stpatricksschoolasansol.in/)\
+Class 10 (I.C.S.E.) from [St. Vincent's High & Technical School, Asansol](http://stvincentsschoolasansol.in/)
 
 #### Post Doctoral Experience
 [Nanyang Technological University](https://personal.ntu.edu.sg/r.ni/)\
