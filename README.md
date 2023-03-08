@@ -1,3 +1,3 @@
 [About Me](https://saurishc.github.io/about)
-
-_This page is under construction_
+[Teaching](https://saurishc.github.io/teaching)
+[Random Thoughts](https://saurishc.github.io/random)
