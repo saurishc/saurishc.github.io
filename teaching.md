@@ -1,7 +1,6 @@
 Year | Even Semester | Odd Semester
 :--- | :--- | :---
-2020 | Complex Analyis<br/>Diffraction \& Holography | Statistical Mechanics 
-2021 | Complex Analyis<br/>Diffraction \& Holography | Statistical Mechanics 
-2022 | Complex Analyis<br/>Diffraction \& Holography | Statistical Mechanics 
-^ | Complex Analyis<br/>Diffraction \& Holography | Statistical Mechanics 
-2023 | Complex Analyis<br/>Diffraction \& Holography | Statistical Mechanics 
+2020 | Diffraction & Holography (2A) <br/> Complex Analysis (4A) <br/> Boundary Value Problems (4A) <br/> Complex Analysis (2P) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) <br/> Symmetry in Crystals (4P) <br/> Disordered Systems (4P) | Thermodynamic Potentials (3A) <br/> Quantum Statistical Mechanics (5A) <br/> Rigid Bodies <br/> Classical Chaos (1P) <br/> Lagrangian Formulation for Continuous Systems (1P) <br/> Special Relativity (1P) <br/> Lattice Dynamics (3P)
+2021 | Diffraction & Holography (2A) <br/> Complex Analysis (4A) <br/> Boundary Value Problems (4A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) <br/> Symmetry in Crystals (4P) <br/> Disordered Systems (4P) | Thermodynamic Potentials (3A) <br/> Quantum Statistical Mechanics (5A) <br/> Rigid Bodies <br/> Classical Chaos (1P) <br/> Lagrangian Formulation for Continuous Systems (1P) <br/> Special Relativity (1P) <br/> Lattice Dynamics (3P)
+2022 | Diffraction & Holography (2A) <br/> Complex Analysis (4A) <br/> Boundary Value Problems (4A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) <br/> Symmetry in Crystals (4P) <br/> Disordered Systems (4P) | Thermodynamic Potentials (3A) <br/> Quantum Statistical Mechanics (5A) <br/> Rigid Bodies <br/> Classical Chaos (1P) <br/> Lagrangian Formulation for Continuous Systems (1P) <br/> Special Relativity (1P) <br/> Lattice Dynamics (3P)
+2023 | Diffraction & Holography (2A) <br/> Complex Analysis (4A) <br/> Boundary Value Problems (4A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) <br/> Symmetry in Crystals (4P) <br/> Disordered Systems (4P) | 
