@@ -9,8 +9,8 @@
     <th>Odd Semester</th>
   </tr>
   <tr>
-    <td {vertical-align: top;}>2023</td>
-    <td>Diffraction & Holography (2A) <br/> Magnetism, Electromagnetic Induction, Linear  <br/>Networks, Maxwell's Equations and <br/> Electromagnetic Wave Propagation (2G) <br/> Electricity and Magnetism Lab (2G) <br/> Complex Analysis (4A) <br/> Skill Enhancement Course (Fortran & LaTeX) (4A) <br/> Quantum Statistical Mechanics (6A) <br/> Statistical Mechanics Lab (6A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) </td>
+    <td> 2023 </td>
+    <td> Diffraction & Holography (2A) <br/> Magnetism, Electromagnetic Induction, Linear  <br/>Networks, Maxwell's Equations and <br/> Electromagnetic Wave Propagation (2G) <br/> Electricity and Magnetism Lab (2G) <br/> Complex Analysis (4A) <br/> Skill Enhancement Course (Fortran & LaTeX) (4A) <br/> Quantum Statistical Mechanics (6A) <br/> Statistical Mechanics Lab (6A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) </td>
     <td> </td>
   </tr>
   <tr>
@@ -29,9 +29,10 @@
   </tr>
   <tr>
     <td>2012</td>
-    <td colspan=2> <a href="https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L31&crs=117A">General Physics I at Washington University in St. Louis</a> <br/> Introductory Undergraduate Physics Course for non physics majors <br/> (taught in the summer session)</td>
+    <td colspan=2> <a href="https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L31&crs=117A">General Physics I</a> (Introductory Undergraduate Physics Course for non physics majors, taught in the summer session)</td>
   </tr>
 </table>
 
-A: Physics Honours, G: Physics General, P: M.Sc. Physics\
+At APC College since 2020; At Washington University in St. Louis in 2012\
+A: [Physics Honours](https://saurishc.github.io/bscSyllabus.pdf), G: [Physics General](https://saurishc.github.io/bscSyllabus.pdf), P: [M.Sc. Physics](https://saurishc.github.io/mscSyllabusAPC.pdf)\
 _E.g._, 3A: Third semester honours course, 4P: Fourth semester M.Sc. course
