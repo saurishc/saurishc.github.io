@@ -14,3 +14,5 @@ As a postdoctoral fellow, I started my journey at the [Indian Institute of Scien
 
 ### Publications
 A list of my publications can be found on [Google Scholar](https://scholar.google.co.in/citations?user=gJdIrrsAAAAJ). Most of my pre-prints are available on [arXiv](https://arxiv.org/a/chakrabarty_s_1.html).
+
+[_Go back home._](https://saurishc.github.io)
