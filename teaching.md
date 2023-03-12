@@ -1,4 +1,6 @@
-### Topics Taught
+### Teaching
+
+**Topics Taught**
 
 | Year | Even Semester | Odd Semester |
 | :--- | :--- | :--- |
