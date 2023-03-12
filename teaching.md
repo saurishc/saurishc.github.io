@@ -2,7 +2,7 @@
 
 **Topics Taught**
 
-<table>
+<table {border: 3px; text-align: left; vertical-align: top}>
   <tr>
     <th>Year</th>
     <th>Even Semester</th>
@@ -31,8 +31,7 @@
     <td>2012</td>
     <td colspan=2> <a href="https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L31&crs=117A">General Physics I</a> (Introductory Undergraduate Physics Course for non physics majors, taught in the summer session)</td>
   </tr>
+  <tr>
+    <td colspan=3> At APC College since 2020; At Washington University in St. Louis in 2012 <br/> A: <a href="https://saurishc.github.io/bscSyllabus.pdf">Physics Honours</a>, G: <a href="https://saurishc.github.io/bscSyllabus.pdf">Physics General</a>, P: <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc. Physics</a> <br/> E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course </td>
+  </tr>
 </table>
-
-At APC College since 2020; At Washington University in St. Louis in 2012\
-A: [Physics Honours](https://saurishc.github.io/bscSyllabus.pdf), G: [Physics General](https://saurishc.github.io/bscSyllabus.pdf), P: [M.Sc. Physics](https://saurishc.github.io/mscSyllabusAPC.pdf)\
-_E.g._, 3A: Third semester honours course, 4P: Fourth semester M.Sc. course
