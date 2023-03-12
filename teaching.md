@@ -2,7 +2,7 @@
 
 **Topics Taught**
 
-<table {border: 3px; text-align: left; vertical-align: top}>
+<table {border: 5px; text-align: left; vertical-align: top}>
   <tr>
     <th>Year</th>
     <th>Even Semester</th>
