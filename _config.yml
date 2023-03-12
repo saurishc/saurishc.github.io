@@ -1,7 +1,7 @@
 markdown: GFM
 title: home / saurish-chakrabarty /
 description: Home Page of Saurish Chakrabarty, Department of Physics, Acharya Prafulla Chandra College
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minima@v0.2.0
 plugins:
 - jekyll-remote-theme
 github:
