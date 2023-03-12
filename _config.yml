@@ -1,5 +1,2 @@
 title: Saurish Chakrabarty
-markdown: kramdown
-
-kramdown:
-    input: GFM
+markdown: GFM
