@@ -13,12 +13,13 @@
     <td>Diffraction & Holography (2A) <br/> Magnetism, Electromagnetic Induction, Linear  <br/>Networks, Maxwell's Equations and <br/> Electromagnetic Wave Propagation (2G) <br/> Electricity and Magnetism Lab (2G) <br/> Complex Analysis (4A) <br/> Skill Enhancement Course (Fortran & LaTeX) (4A) <br/> Quantum Statistical Mechanics (6A) <br/> Statistical Mechanics Lab (6A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) </td>
     <td> </td>
   </tr>
-  </tr>
+  <hr>
   <tr>
     <td>2022</td>
     <td> Diffraction & Holography (2A) <br/> Complex Analysis (4A) <br/> Boundary Value Problems (4A) <br/> Skill Enhancement Course (C++ & LaTeX) (4A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) <br/> Symmetry in Crystals (4P) Disordered Systems (4P) </td>
     <td> Calculus (1A) Probability (1A) <br/> Mathematical Physics Lab (1A) <br/> Digital Circuits (3A) Tensor Analysis (5A) <br/> Quantum Mechanics Lab (5A) <br/> Advanced Mathematical Physics Lab (5A) <br/> Classical Chaos (1P) <br/> Lagrangian Formulation for Continuous Systems (1P) <br/> Superconductivity (3P) Computational Physics Lab (3P) </td>
   </tr>
+  <hr>
   <tr>
     <td>2021</td>
     <td> Diffraction & Holography (2A) <br/> Complex Analysis (4A) <br/> Boundary Value Problems (4A) <br/> Skill Enhancement Course (C++ & LaTeX) (4A) <br/> Quantum Statistical Mechanics (2P) <br/> Special Topics in Statistical Mechanics (2P) <br/> Symmetry in Crystals (4P) Disordered Systems (4P) </td>
@@ -30,6 +31,7 @@
   </tr>
   <tr>
     <td>2012</td>
+  <hr>
     <td colspan=2> <a href="https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L31&crs=117A">General Physics I at Washington University in St. Louis</a> <br/> Introductory Undergraduate Physics Course for non physics majors <br/> (taught in the summer session)</td>
   </tr>
   </table>
