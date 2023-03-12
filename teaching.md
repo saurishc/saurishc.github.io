@@ -35,3 +35,6 @@
     <td colspan=3> At APC College since 2020; At Washington University in St. Louis in 2012 <br/> A: <a href="https://saurishc.github.io/bscSyllabus.pdf">Physics Honours</a>, G: <a href="https://saurishc.github.io/bscSyllabus.pdf">Physics General</a>, P: <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc. Physics</a> <br/> E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course </td>
   </tr>
 </table>
+
+
+[_Go back home._](https://saurishc.github.io)
