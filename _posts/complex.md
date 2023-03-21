@@ -2,9 +2,8 @@
 layout: post
 title: Complex Analysis
 author: Saurish Chakrabarty
-categories: lecture notes
-tags: [documentation,notes]
-permalink: /complex
+categories: journal
+tags: [documentation,sample]
 ---
 ## Syllabus
 - About complex numbers
