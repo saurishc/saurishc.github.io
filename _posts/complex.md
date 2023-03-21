@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Complex Analysis
-author: Saurish Chakrabarty
+title: "Complex Analysis"
+author: "Saurish Chakrabarty"
 categories: journal
 tags: [documentation,sample]
 ---
