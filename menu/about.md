@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About Me
 permalink: /about
 ---
-
-### About Me
 
 I [teach](https://saurishc.github.io/teaching) physics at [Acharya Prafulla Chandra College](http://www.apccollege.ac.in/), New Barrackpore.
 
@@ -20,5 +18,3 @@ As a postdoctoral fellow, I started my journey at the [Indian Institute of Scien
 
 ### Publications
 A list of my publications can be found on [Google Scholar](https://scholar.google.co.in/citations?user=gJdIrrsAAAAJ). Most of my pre-prints are available on [arXiv](https://arxiv.org/a/chakrabarty_s_1.html).
-
-[_Go back home._](https://saurishc.github.io)
