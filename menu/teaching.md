@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: Teaching
 permalink: /teaching
 ---
@@ -15,7 +15,7 @@ E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.
   -  Maxwell's Equations and Electromagnetic Wave Propagation (2G)
   -  Electricity and Magnetism Lab (2G)
   -  <a href="https://saurishc.github.io/complex">Complex Analysis</a> (4A)
-  -  Skill Enhancement Course (Fortran & LaTeX) (4A)
+  -  Skill Enhancement Course (Fortran & \LaTeX) (4A)
   -  Quantum Statistical Mechanics (6A)
   -  Statistical Mechanics Lab (6A)
   -  Quantum Statistical Mechanics (2P)
@@ -38,7 +38,7 @@ E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.
   - Diffraction & Holography (2A)
   - <a href="https://saurishc.github.io/complex">Complex Analysis</a> (4A)
   - Boundary Value Problems (4A)
-  - Skill Enhancement Course (C++ & LaTeX) (4A)
+  - Skill Enhancement Course (C++ & $\LaTeX$) (4A)
   - Quantum Statistical Mechanics (2P)
   - Special Topics in Statistical Mechanics (2P)
   - Teaching Skills (2P)
