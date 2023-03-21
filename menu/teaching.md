@@ -15,7 +15,7 @@ E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.
   -  Maxwell's Equations and Electromagnetic Wave Propagation (2G)
   -  Electricity and Magnetism Lab (2G)
   -  <a href="https://saurishc.github.io/complex">Complex Analysis</a> (4A)
-  -  Skill Enhancement Course (Fortran & \LaTeX) (4A)
+  -  Skill Enhancement Course (Fortran & $\text{\LaTeX}$) (4A)
   -  Quantum Statistical Mechanics (6A)
   -  Statistical Mechanics Lab (6A)
   -  Quantum Statistical Mechanics (2P)
