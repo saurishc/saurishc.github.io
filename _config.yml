@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Saurish Chakrabarty'
-description:	       'Department of Physics, Acharya Prafulla Chandra College'
+description:	       'Physicist'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
