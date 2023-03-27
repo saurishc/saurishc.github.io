@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Complex Analysis"
+title: "About Complex Numbers"
 author: "Saurish Chakrabarty"
 categories: journal
 tags: [documentation,sample]
 ---
-## About Complex Numbers
 A complex number $z$ is an ordered pair of real numbers $(x,y)$ with
 addition and multiplication defined as follows. For two complex
 numbers $z_1=(x_1,y_1)$ and $z_2=(x_2,y_2)$,
