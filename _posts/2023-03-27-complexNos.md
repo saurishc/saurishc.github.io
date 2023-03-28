@@ -71,8 +71,12 @@ $$
 The proof of this is as follows.
 
 $$
-|z_1+z_2|^2=\left(z_1+z_2\right)\left(\overline{z_1+z_2}\right)\\
-=\left|z_1\right|^2+\left|z_1\right|^2+z_1\overline{z_2}+z_2\overline{z_1}
+\left|z_1+z_2\right|^2=\left(z_1+z_2\right)\left(\overline{z_1+z_2}\right)\\
+=\left|z_1\right|^2+\left|z_2\right|^2+z_1\overline{z_2}+z_2\overline{z_1}\\
+=\left|z_1\right|^2+\left|z_2\right|^2+2\text{Re}z_1\overline{z_2}\\
+\le\left|z_1\right|^2+\left|z_2\right|^2+2\left|z_1\right|\left|z_2\right|\\
+\Rightarrow\left|z_1+z_2\right|^2=\left(\left|z_1\right|+\left|z_2\right|\right)^2\\
+\Rightarrow\left|z_1+z_2\right|=\left|z_1\right|+\left|z_2\right|
 $$
 
 
