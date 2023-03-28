@@ -71,8 +71,8 @@ $$
 The proof of this is as follows.
 
 $$
-|z_1+z_2|^2&=&\left(z_1+z_2\right)\left(\overline{z_1+z_2}\right)\\
-&=&\left|z_1\right|^2+\left|z_1\right|^2+z_1\overline{z_2}+z_2\overline{z_1}
+|z_1+z_2|^2=\left(z_1+z_2\right)\left(\overline{z_1+z_2}\right)\\
+=\left|z_1\right|^2+\left|z_1\right|^2+z_1\overline{z_2}+z_2\overline{z_1}
 $$
 
 
