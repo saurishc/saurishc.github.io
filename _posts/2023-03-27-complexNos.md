@@ -50,16 +50,16 @@ The complex conjugate $\bar{Z}$, of a complex number $z=x+iy$ is the complex num
 $$
 |z|=|\bar{z}|\\
 z\bar{z}=|z|^2=|\bar{z}|^2\\
-z+\bar{z}=2\ \text{Re}\ z\\
-z-\bar{z}=2i\ \text{Im}\ z\\
+z+\bar{z}=2\ \text{Re }z\\
+z-\bar{z}=2i\ \text{Im }z\\
 |z_1z_2|=|z_1||z_2|
 $$
 
 Let us discuss some inequalities involving moduli of complex numbers. Since 
 
 $$
-|z|^2=(\text{Re} z)^2+(\text{Im} z)^2,\\
-|z|\ge|\text{Re} z|\ge\text{Re} z\text{, and, }|z|\ge|\text{Im} z|\ge\text{Im} z
+|z|^2=(\text{Re }z)^2+(\text{Im }z)^2,\\
+|z|\ge|\text{Re }z|\ge\text{Re }z\text{, and, }|z|\ge|\text{Im }z|\ge\text{Im }z
 $$
 
 This can be used to establish the _triangle inequality_.
@@ -73,7 +73,7 @@ The proof of this is as follows.
 $$
 \left|z_1+z_2\right|^2=\left(z_1+z_2\right)\left(\overline{z_1+z_2}\right)\\
 =\left|z_1\right|^2+\left|z_2\right|^2+z_1\overline{z_2}+z_2\overline{z_1}\\
-=\left|z_1\right|^2+\left|z_2\right|^2+2\text{Re}z_1\overline{z_2}\\
+=\left|z_1\right|^2+\left|z_2\right|^2+2\text{Re }z_1\overline{z_2}\\
 \le\left|z_1\right|^2+\left|z_2\right|^2+2\left|z_1\right|\left|z_2\right|\\
 \Rightarrow\left|z_1+z_2\right|^2\le\left(\left|z_1\right|+\left|z_2\right|\right)^2\\
 \Rightarrow\left|z_1+z_2\right|\le\left|z_1\right|+\left|z_2\right|
@@ -82,5 +82,21 @@ $$
 In arriving at the final inequality from the one in the second last line, 
 we use the fact that the quantities that are being squared on both sides of the 
 second last line are positive.
+
+### Polar Representation
+Using the polar coordinates for the two dimensional complex plane results in the 
+polar representation of a complex number. The radial coordinate is the _modulus_ of 
+the complex number and the polar angle is known as its _argument_. Thus, for a complex
+number $z=x+iy$,
+
+$$
+\text{mod }z=|z|=\sqrt{x^2+y^2}\\
+\text{arg }z=\tan^{-1}\frac{y}{x}
+$$
+
+The principal value of the argument of a complex number is represented by Arg $z$ and is chosen to
+take values in the range $[-\pi,\pi]$.
+
+> __Tip:__ In python, you can use the `arctan2` function to get the polar angle directly in the correct quadrant. Functions with similar names are also available in other programming languages.
 
 [Back to syllabus](https://saurishc.github.io/complex)
