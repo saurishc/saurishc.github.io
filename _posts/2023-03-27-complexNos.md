@@ -79,5 +79,8 @@ $$
 \Rightarrow\left|z_1+z_2\right|\le\left|z_1\right|+\left|z_2\right|
 $$
 
+In arriving at the final inequality from the one in the second last line, 
+we use the fact that the quantities that are being squared on both sides of the 
+second last line are positive.
 
 [Back to syllabus](https://saurishc.github.io/complex)
