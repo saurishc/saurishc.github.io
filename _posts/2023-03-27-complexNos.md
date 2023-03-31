@@ -99,4 +99,17 @@ take values in the range $[-\pi,\pi]$.
 
 > __Tip:__ In python, you can use the `arctan2` function to get the polar angle directly in the correct quadrant. Functions with similar names are also available in other programming languages.
 
+It is easy to check that the argument of the product of two complex numbers is the sum of their arguments.
+
+### Exponential Form / Euler's formula
+
+$$
+e^{i\theta}=\cos\theta+i\sin\theta\equiv\text{cis }\theta
+$$
+
+To see where this comes from, expand the left hand side and use the fact that $i^2=-1$.
+
+Thus, using the above polar representation, any complex number $z$ can be written as $re^{i\theta}$, where $r=|z|$ and $\theta=\text{arg }z$.
+
+
 [Back to syllabus](https://saurishc.github.io/complex)
