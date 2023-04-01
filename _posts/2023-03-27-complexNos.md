@@ -109,7 +109,7 @@ $$
 
 To see where this comes from, expand the left hand side and use the fact that $i^2=-1$.
 
-Thus, using the above polar representation, any complex number $z$ can be written as $re^{i\theta}$, where $r=|z|$ and $\theta=\text{arg }z$.
+Thus, using the above polar representation, any complex number $z$ can be written as $re^{i\theta}$, where $r=\lvert z\rvert$ and $\theta=\text{arg }z$.
 
 
 [Back to syllabus](https://saurishc.github.io/complex)
