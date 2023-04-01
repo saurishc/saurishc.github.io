@@ -55,14 +55,10 @@ z-\bar{z}=2i\ \text{Im }z\\
 |z_1z_2|=|z_1||z_2|
 $$
 
-Let us discuss some inequalities involving moduli of complex numbers. Since 
+Let us discuss some inequalities involving moduli of complex numbers. 
 
-$$
-|z|^2=(\text{Re }z)^2+(\text{Im }z)^2,\\
-|z|\ge|\text{Re }z|\ge\text{Re }z\text{, and, }|z|\ge|\text{Im }z|\ge\text{Im }z
-$$
-
-This can be used to establish the _triangle inequality_.
+#### Triangle Inequality
+Since $\lvert z\rvert^2=(\text{Re }z)^2+(\text{Im }z)^2$, it follows that $\lvert z\rvert\ge\lvert\text{Re }z\rvert\ge\text{Re }z$ and $\lvert z\rvert\ge\lvert\text{Im }z\rvert\ge\text{Im }z$. This can be used to establish the _triangle inequality_.
 
 $$
 |z_1+z_2|\le|z_1|+|z_2|
