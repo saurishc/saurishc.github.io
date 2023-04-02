@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Interests (under construction)
+title: Research Interests
 permalink: /research
 ---
 ## Supercooled Liquids and Glasses
