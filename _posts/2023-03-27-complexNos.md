@@ -107,5 +107,36 @@ To see where this comes from, expand the left hand side and use the fact that $i
 
 Thus, using the above polar representation, any complex number $z$ can be written as $re^{i\theta}$, where $r=\lvert z\rvert$ and $\theta=\text{arg }z$.
 
+For any integer $n$, the value of $e^{i2n\pi}$ is one. This implies that if $z_1=z_2$, then in the polar representation, $r_1=r_2$ and $\theta_1=\theta_2+2n\pi$.
+
+Since $\left(e^{i\theta}\right)^n=e^{in\theta}$, it follows that,
+
+$$
+(\cos\theta+i\sin\theta)^n=\cos n\theta+i\sin n\theta
+$$
+
+This relation is known as _de Moivre's formula_.
+
+### $n^{\sf{th}}$ roots of a complex number
+First, let us find the $n^{\sf{th}}$ roots of one. These are solutions of the equation $z^n=1$. In polar form,
+
+$$
+\left(re^{i\theta}\right)^n=1~\Rightarrow~r^ne^{in\theta}=1\times e^{i\times0}\\
+\Rightarrow r^n=1,~i.e.,~r=1,\text{ and, }n\theta=2k\pi,~i.e.,n=\frac{2k\pi}{n}
+$$
+
+where $k$ is an integer. The $n$ distinct roots correspond to $k\in{0,1,2,\dots,n-1}$ (or equivalently, any set of $n$ consecutive integers). Other values of $k$ give us repatitions of these roots. Thus, the $n^{\sf{th}}$ roots of one are,
+
+$$
+\omega_k\equiv\exp\left(\frac{i2k\pi}{n}\right),~k\in{0,1,2,\dots,n-1}.
+$$
+
+For other complex numbers, similar steps follow. In general modulus may be different from one and the argument may be different from zero. That is, if we are asked to obtain the $n^{\sf{th}}$ roots of $z_0=r_0e^{i\theta_0}$, where $-\pi<\theta_0\le\pi$, then, going through the same steps as above, the roots come out to be,
+
+$$
+z_k\equiv\sqrt[n]{r_0}\exp\left(\frac{i(2k\pi+\theta_0)}{n}\right),~k\in{0,1,2,\dots,n-1}.
+$$
+
+Here, $\sqrt[n]{r_0}$, denotes the positive $n^{\sf{th}}$ root of the positive real number $r_0$.
 
 [Back to syllabus](https://saurishc.github.io/complex)
