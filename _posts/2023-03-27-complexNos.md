@@ -131,12 +131,12 @@ $$
 \omega_k\equiv\exp\left(\frac{i2k\pi}{n}\right),~k\in{0,1,2,\dots,n-1}.
 $$
 
-For other complex numbers, similar steps follow. In general modulus may be different from one and the argument may be different from zero. That is, if we are asked to obtain the $n^{\sf{th}}$ roots of $z_0=r_0e^{i\theta_0}$, where $-\pi<\theta_0\le\pi$, then, going through the same steps as above, the roots come out to be,
+For other complex numbers, similar steps follow. In general modulus may be different from one and the argument may be different from zero. That is, if we are asked to obtain the $n^{\sf{th}}$ roots of $Z=Re^{i\Theta}$, where $-\pi<\Theta\le\pi$, then, going through the same steps as above, the roots come out to be,
 
 $$
-z_k\equiv\sqrt[n]{r_0}\exp\left(\frac{i(2k\pi+\theta_0)}{n}\right),~k\in{0,1,2,\dots,n-1}.
+z_k\equiv\sqrt[n]{R}\exp\left(\frac{i(2k\pi+\Theta)}{n}\right),~k\in{0,1,2,\dots,n-1}.
 $$
 
-Here, $\sqrt[n]{r_0}$, denotes the positive $n^{\sf{th}}$ root of the positive real number $r_0$.
+Here, $\sqrt[n]{R}$, denotes the positive $n^{\sf{th}}$ root of the positive real number $R$.
 
 [Back to syllabus](https://saurishc.github.io/complex)
