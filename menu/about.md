@@ -14,7 +14,7 @@ B.Sc. Physics Honours from [St. Xavier's College, Kolkata](https://www.sxccal.ed
 Class 10 (I.C.S.E.) from [St. Vincent's High & Technical School, Asansol](http://stvincentsschoolasansol.in/)
 
 ### Post Doctoral Experience
-As a postdoctoral fellow, I started my journey at the [Indian Institute of Science](http://www.physics.iisc.ac.in/). There, I worked in Chandan Dasgupta's group. From there, I moved to the [International Centre for Theoretical Sciences](https://icts.res.in/). In ICTS, I worked with Subhro Bhattacharjee and Abhishek Dhar. My final days as a postdoc were spent at the [Nanyang Technological University](https://personal.ntu.edu.sg/r.ni/) is Ran Ni's group. During this entire time, I worked on problems in statistical physics and condensed matter physics.
+As a postdoctoral fellow, I started my journey at the [Indian Institute of Science](http://www.physics.iisc.ac.in/). There, I worked in Chandan Dasgupta's group. From there, I moved to the [International Centre for Theoretical Sciences](https://icts.res.in/). In ICTS, I worked with Subhro Bhattacharjee and Abhishek Dhar. My final days as a postdoc were spent at the [Nanyang Technological University](https://personal.ntu.edu.sg/r.ni/) in Ran Ni's group. During this entire time, I worked on problems in statistical physics and condensed matter physics.
 
 ### Publications
 A list of my publications can be found on [Google Scholar](https://scholar.google.co.in/citations?user=gJdIrrsAAAAJ). Most of my pre-prints are available on [arXiv](https://arxiv.org/a/chakrabarty_s_1.html).
