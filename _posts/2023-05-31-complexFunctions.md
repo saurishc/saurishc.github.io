@@ -26,5 +26,5 @@ $$
 \lim_{z\to z_0} f(z)=w_0.
 $$
 
-#### $\epsilon-delta$ definition
-The above limit is true if for any $\epsilon$ greater than zero, we can find $\delta(\epsilon)$ which is also greater than zero, such that whenever $|z-z_0|<\delta$, $|f(z)-w_0|<epsilon$.
+#### $\epsilon-\delta$ definition
+The above limit is true if for any $\epsilon$ greater than zero, we can find $\delta(\epsilon)$ which is also greater than zero, such that whenever $|z-z_0|<\delta$, $|f(z)-w_0|<\epsilon$.
