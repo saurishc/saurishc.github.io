@@ -23,5 +23,5 @@ An example of a complex function is $f(z)=z^2$, for which it is easy to check th
 If $f(z)$ goes arbitrarily close to $w_0$ whenever $z$ goes arbitrarily close to $z_0$, then we say that,
 
 $$
-\lim_{z\toz_0} f(z)=w_0.
+\lim_{z\to z_0} f(z)=w_0.
 $$
