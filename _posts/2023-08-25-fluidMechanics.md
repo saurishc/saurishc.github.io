@@ -6,6 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
+# Syllabus
 - Basic physics of fluids
   - the continuum hypothesis
   - concept of fluid element or fluid parcel
@@ -27,3 +28,6 @@ tags: [documentation,sample]
   - rotational & irrotational flows
 - Euler equation and Navier-Stokes equation
 - Qualitative description of turbulence, Reynolds number
+
+# Reference
+G. K. Batchelor, _Introduction to Fluid Dynamics_, Cambridge University Press
