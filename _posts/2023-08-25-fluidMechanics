@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Fluid Dynamics"
+author: "Saurish Chakrabarty"
+categories: journal
+tags: [documentation,sample]
+---
+
+- Basic physics of fluids
+  - the continuum hypothesis
+  - concept of fluid element or fluid parcel
+  - definition of a fluid
+  - shear stress
+- Fluid properties
+  - viscosity
+  - thermal conductivity
+  - mass diffusivity
+  - other fluid properties
+  - equation of state
+- Flow phenomena
+  - flow dimensionality
+  - steady & unsteady flows
+  - uniform & non-uniform flows
+  - viscous & inviscid flows
+  - incompressible & compressible flows
+  - laminar & turbulent flows
+  - rotational & irrotational flows
+- Euler equation and Navier-Stokes equation
+- Qualitative description of turbulence, Reynolds number
