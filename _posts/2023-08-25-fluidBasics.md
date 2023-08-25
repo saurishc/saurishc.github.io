@@ -17,7 +17,7 @@ A fluid is described by the distribution of velocities of the fluid particles in
 
 ### Typical Numbers justifying Continuum Hypothesis
 
-Linear dimension of system: 1 cm\
-Linear dimension of volume element: 0.001 cm\
-Number of molecules in volume element: $2.5\times10^{10}$\
-(assuming the system to be air, $\rho=2.5\times10^{19}cm^{-3}$)
+Linear dimension of system: $1 cm$ \
+Linear dimension of volume element: $0.001 cm$ \
+Number of molecules in volume element: $2.5\times10^{10}$ \
+(assuming the system to be air, $\rho=2.5\times10^{19} cm^{-3}$)
