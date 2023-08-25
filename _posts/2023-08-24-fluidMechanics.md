@@ -29,5 +29,6 @@ tags: [documentation,sample]
 - Euler equation and Navier-Stokes equation
 - Qualitative description of turbulence, Reynolds number
 
-# Reference
-G. K. Batchelor, _Introduction to Fluid Dynamics_, Cambridge University Press
+# References
+- G. K. Batchelor, _Introduction to Fluid Dynamics_
+- L. D. Landau and E. M. Lifshitz, _Fluid Mechanics_
