@@ -4,11 +4,17 @@ layout: default
 
 <p>Welcome to the webpage of Saurish Chakrabarty. Below are some of my recent posts. Some information about me and my teaching and research interests can be found in the links below the header.</p>
 
+<hr> 
+
+<h1> Recent Posts</h1>
+
+<hr>
+
 {% for post in paginator.posts %}
   <div class="posts-container">
-    <h1>
+    <h2>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-    </h1>
+    </h2>
     {% if post.image %}
       <div class="thumbnail-container">
         <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
