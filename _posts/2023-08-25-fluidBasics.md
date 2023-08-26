@@ -24,7 +24,7 @@ Number of molecules in volume element: $2.5\times10^{10}$ \
 
 ## Equation of Continuity
 
-Let us consider an arbitrary volume, $V_0$, in a fluid. The mass of the fluid contained in this volume is given by $\int\rho dV$. The amount of fluid which flows out of $V_0$ per unit time is given by,
+Let us consider an arbitrary volume, $V_0$, in a fluid. The mass of the fluid contained in this volume is given by $\int\rho\ dV$. The amount of fluid which flows out of $V_0$ per unit time is given by,
 
 $$
 \oint \rho\vec{v}.\overrightarrow{dS},
@@ -61,7 +61,7 @@ This is known as the _equation of continuity_. Here, $\rho\vec{v}$ represents th
 The total force acting on an arbitrary volume $V_0$ in a fluid is the sum of the forces on the elements of the surrounding surface. Thus,
 
 $$
--\oint p\overrightarrow{dS}=-\int\vec{\nabla}p dV
+-\oint p\ \overrightarrow{dS}=-\int\vec{\nabla}p\ dV
 $$
 
 ---
@@ -69,22 +69,21 @@ $$
 The above step uses the following theorem which can be derived from Gauss's theorem. For any scalar field, $\phi$,
 
 $$
-\oint \phi\overrightarrow{dS}=\int\vec{\nabla}\phi dV
+\oint \phi\ \overrightarrow{dS}=\int\vec{\nabla}\phi\ dV
 $$
 
 Proof:
 
 $$
-\int \vec{\nabla}\phi dV
+\int \vec{\nabla}\phi\ dV
 =\int \left(\hat{i}\frac{\partial\phi}{\partial x}+\hat{j}\frac{\partial\phi}{\partial y}+\hat{k}\frac{\partial\phi}{\partial z}\right)dV
 =\hat{i}\int\vec{\nabla}\cdot\left(\hat{i}\phi\right)dV+\hat{j}\int\vec{\nabla}\cdot\left(\hat{j}\phi\right)dV+\hat{k}\int\vec{\nabla}\cdot\left(\hat{k}\phi\right)dV
 $$
 
 $$
 \Rightarrow
-\int \vec{\nabla}\phi dV
-=\hat{i}\int\left(\hat{i}\phi\right)\cdot\overrightarrow{dS}+\hat{j}\int\left(\hat{j}\phi\right)\cdot\overrightarrow{dS}+\hat{k}\int\left(\hat{k}\phi\right)\cdot\overrightarrow{dS}=\int \phi\left(\hat{i}dS_x+\hat{j}dS_y+\hat{k}dS_z\right)=\int\phi\overrightarrow{dS}
+\int \vec{\nabla}\phi\ dV
+=\hat{i}\int\left(\hat{i}\phi\right)\cdot\overrightarrow{dS}+\hat{j}\int\left(\hat{j}\phi\right)\cdot\overrightarrow{dS}+\hat{k}\int\left(\hat{k}\phi\right)\cdot\overrightarrow{dS}=\int \phi\left(\hat{i}dS_x+\hat{j}dS_y+\hat{k}dS_z\right)=\int\phi\ \overrightarrow{dS}
 $$
-
 
 ---
