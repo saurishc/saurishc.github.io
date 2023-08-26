@@ -21,3 +21,37 @@ Linear dimension of system: $1 cm$ \
 Linear dimension of volume element: $0.001 cm$ \
 Number of molecules in volume element: $2.5\times10^{10}$ \
 (assuming the system to be air, $\rho=2.5\times10^{19} cm^{-3}$)
+
+## Equation of Continuity
+
+Let us consider an arbitrary volume, $V_0$, in a fluid. The mass of the fluid contained in this volume is given by $\int\rho\dV. The amount of fluid which flows out of $V_0$ per unit time is given by,
+
+$$
+\oint \rho\vec{v}.\overrightarrow{dS},
+$$
+
+where the integral is over the closed surface surrounding $V_0$. Using Gauss's divergence theorem, this can also be written as,
+
+$$
+\oint \vec{\nabla}\cdot\left(\rho\vec{v}\right)dV
+$$
+
+The decrease in mass of the liquid in $V_0$ per unit time can be written as,
+
+$$
+\frac{d}{dt}\int\rho dV=\int\frac{\partial\rho}{\partial t}dV
+$$
+
+This decrease can only be because of fluid particles moving out of $V_0$. Thus,
+
+$$
+\int\left(\frac{\partial\rho}{\partial t}+\vec{\nabla}\cdot\left(\rho\vec{v}\right)\right)dV=0
+$$
+
+Since this must be true for any volume, the integrand itself must be zero at any point in the fluid, _i.e._,
+
+$$
+\frac{\partial\rho}{\partial t}+\vec{\nabla}\cdot\left(\rho\vec{v}\right)=0
+$$
+
+This is known as the _equation of continuity_. Here, $\rho\vec{v}$ represents the _mass flux density_, $\vec{j}$.
