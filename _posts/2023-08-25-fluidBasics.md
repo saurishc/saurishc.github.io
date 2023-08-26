@@ -83,7 +83,7 @@ $$
 $$
 \Rightarrow
 \int \vec{\nabla}\phi dV
-=\hat{i}\int\left(\hat{i}\phi\right)\cdot\overrightarrow{dS}+\hat{j}\int\left(\hat{j}\phi\right)\cdot\overrightarrow{dS}+\hat{k}\int\left(\hat{k}\phi\right)\cdot\overrightarrow{dS}=\int \phi\left(\hat{i}dS_x+\hat{i}dS_x+\hat{i}dS_x\right)=\int\phi\overrightarrow{dS}
+=\hat{i}\int\left(\hat{i}\phi\right)\cdot\overrightarrow{dS}+\hat{j}\int\left(\hat{j}\phi\right)\cdot\overrightarrow{dS}+\hat{k}\int\left(\hat{k}\phi\right)\cdot\overrightarrow{dS}=\int \phi\left(\hat{i}dS_x+\hat{j}dS_y+\hat{k}dS_z\right)=\int\phi\overrightarrow{dS}
 $$
 
 
