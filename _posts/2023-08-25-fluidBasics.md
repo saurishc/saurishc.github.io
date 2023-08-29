@@ -87,3 +87,12 @@ $$
 $$
 
 ---
+
+Thus, the force on a fluid element of volume $dV$ is just $-\vec{\nabla}p\ dV$. We can therefore write down Newton's second law for this volume element.
+
+$$
+(\rho dV)\frac{d\vec{v}}{dt}=-\vec{\nabla}p\ dV\  \Rightarrow\ \rho\frac{d\vec{v}}{dt}=-\vec{\nabla}p
+$$
+
+### The meaning of $\frac{d\vec{v}}{dt}$
+In the above expression, $\frac{d\vec{v}}{dt}$ represents the rate of change of the velocity of a fluid element as it moves. It is _not_ the rate of change of the fluid velocity at some point in space.
