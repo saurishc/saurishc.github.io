@@ -95,4 +95,20 @@ $$
 $$
 
 ### The meaning of $\frac{d\vec{v}}{dt}$
-In the above expression, $\frac{d\vec{v}}{dt}$ represents the rate of change of the velocity of a fluid element as it moves. It is _not_ the rate of change of the fluid velocity at some point in space.
+In the above expression, $\frac{d\vec{v}}{dt}$ represents the rate of change of the velocity of a fluid element as it moves. It is _not_ the rate of change of the fluid velocity at some point in space. The change in velocity of a fluid element in time $dt$ is the sum of the change in velocity of the fluid at the location of the fluid element during the same time interval, and, the difference in the velocities at the starting and ending locations of the fluid element, separated by $\overrightarrow{dr}$. Thus,
+
+$$
+d\vec{v}=\frac{\partial\vec{v}}{\partial t}dt+\frac{\partial\vec{v}}{\partial x}dx+\frac{\partial\vec{v}}{\partial y}dy+\frac{\partial\vec{v}}{\partial z}dz
+=\frac{\partial\vec{v}}{\partial t}dt+\left(\overrightarrow{dr}\cdot\vec{\nabla}\right)\vec{v}
+$$
+
+$$
+\Rightarrow \frac{d\vec{v}}{dt}
+=\frac{\partial\vec{v}}{\partial t}+\left(\vec{v}\cdot\vec{\nabla}\right)\vec{v}
+$$
+
+Using this, we get _Euler's equation_,
+
+$$
+\frac{\partial\vec{v}}{\partial t}+\left(\vec{v}\cdot\vec{\nabla}\right)\vec{v}=-\frac{1}{\rho}\vec{\nabla}p
+$$
