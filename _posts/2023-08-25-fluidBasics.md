@@ -112,3 +112,11 @@ Using this, we get _Euler's equation_,
 $$
 \frac{\partial\vec{v}}{\partial t}+\left(\vec{v}\cdot\vec{\nabla}\right)\vec{v}=-\frac{1}{\rho}\vec{\nabla}p
 $$
+
+When the fluid is in a gravitational field, there is another force and Euler's equation takes the form,
+
+$$
+\frac{\partial\vec{v}}{\partial t}+\left(\vec{v}\cdot\vec{\nabla}\right)\vec{v}=-\frac{1}{\rho}\vec{\nabla}p+\vec{g}
+$$
+
+The above derivation assumes an ideal fluid in which dissipative forces are unimportant, _i.e._, there is no viscosity or thermal conductivity.
