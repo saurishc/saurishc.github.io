@@ -9,6 +9,20 @@ G: <a href="https://saurishc.github.io/bscSyllabus.pdf">Physics General</a><br/>
 P: <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc. Physics</a><br/>
 E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.
 
+- Odd Semester, 2023
+  - Mathematical Physics Lab (1A)
+  - Gravitation (1G)
+  - Oscillations (1G)
+  - Elasticity (1G)
+  - Digital Circuits (3A) 
+  - Quantum Mechanics -- Bound States in an Arbitrary Potential (5A)
+  - Quantum Mechanics -- Hydrogen-like Atoms (5A)
+  - Dynamical Systems (5A)
+  - Fluid Dynamics (5A)
+  - Quantum Mechanics Lab (5A)
+  - Classical Chaos (1P)
+  - Lagrangian Formulation for Continuous Systems (1P)
+  - Computational Physics Lab (3P)
 - Even Semester, 2023
   - Diffraction & Holography (2A)
   - Magnetism, Electromagnetic Induction, Linear  Networks (2G)
@@ -26,6 +40,9 @@ E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.
   - Calculus (1A)
   - Probability (1A)
   - Mathematical Physics Lab (1A)
+  - Gravitation (1G)
+  - Oscillations (1G)
+  - Elasticity (1G)
   - Digital Circuits (3A) 
   - Tensor Analysis (5A)
   - Quantum Mechanics Lab (5A)
