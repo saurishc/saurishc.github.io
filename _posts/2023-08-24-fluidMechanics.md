@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fluid Dynamics"
+title: "Fluid Mechanics"
 author: "Saurish Chakrabarty"
 categories: journal
 tags: [documentation,sample]
