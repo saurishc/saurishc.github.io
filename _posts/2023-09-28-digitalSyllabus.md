@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Digital Circuits"
+title: "Digital Circuits Syllabus"
 author: "Saurish Chakrabarty"
 categories: journal
 tags: [documentation,sample]
 ---
 
-# Syllabus
 - Difference between Analog and Digital Circuits
 - Binary Numbers: Decimal to Binary and Binary to Decimal Conversion
 - AND, OR and NOT Gates (Realization using Diodes and Transistor)
