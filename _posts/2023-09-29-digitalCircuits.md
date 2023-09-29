@@ -18,8 +18,8 @@ This is the algebra of binary variables (those that can take two different value
 
 Let $X,Y\in{0,1}$ (Boolean variable). The following are basic operations.
 - **NOT**: $\overline{X}=0$ if $X=1$ and 1 if $X=0$.
-- **OR(+)**: $X+Y$=0$ if both $X$ and $Y$ are 0, and 1 otherwise.
-- **AND($\cdot$)**: $X\cdot Y$=1$ if both $X$ and $Y$ are 1, and 0 otherwise.
+- **OR(+)**: $X+Y=0$ if both $X$ and $Y$ are 0, and 1 otherwise.
+- **AND($\cdot$)**: $X\cdot Y=1$ if both $X$ and $Y$ are 1, and 0 otherwise.
 
 All these operations satisfy the closure property, _i.e._, the result is also a Boolean variable. This means that the output can be used as an input for another operation.
 
