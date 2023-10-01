@@ -4,8 +4,8 @@ title: Teaching
 permalink: /teaching
 ---
 I have been teaching at APC College since 2020. Before that, in 2012, I taught a regular semester-long course in summer at Washington University in St. Louis. The following list contains the topics that I have taught. The codes mentioned in parantheses are explained below.\
-A: <a href="https://saurishc.github.io/bscSyllabus.pdf">Physics Honours</a><br/>
-G: <a href="https://saurishc.github.io/bscSyllabus.pdf">Physics General</a><br/>
+A: B.Sc. Physics Honours (<a href="https://saurishc.github.io/bscSyllabus-wbsu-nep-firstYear.pdf">NEP syllabus</a>, <a href="https://saurishc.github.io/bscSyllabus.pdf">CBCS syllabus for students who joined before 2023</a>)<br/>
+G: B.Sc. Physics General (<a href="https://saurishc.github.io/bscSyllabus-wbsu-nep-firstYear.pdf">NEP syllabus</a>, <a href="https://saurishc.github.io/bscSyllabus.pdf">CBCS syllabus for students who joined before 2023</a>)<br/>
 P: <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc. Physics</a><br/>
 E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.
 
