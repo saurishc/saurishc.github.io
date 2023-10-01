@@ -11,7 +11,7 @@ See the links below for the syllabi.\
 - <a href="https://saurishc.github.io/bscSyllabus.pdf">B.Sc. under CBCS (for students who joined before 2023)</a>
 - <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc.</a><br/>
 
-# Topics that I am teaching or have taught in the past
+### Topics that I am teaching or have taught in the past
 - Odd Semester, 2023
   - Mathematical Physics Lab (1A)
   - Gravitation (1G)
