@@ -120,3 +120,5 @@ $$
 $$
 
 The above derivation assumes an ideal fluid in which dissipative forces are unimportant, _i.e._, there is no viscosity or thermal conductivity.
+
+[Back to syllabus](https://saurishc.github.io/fluidMechanics)
