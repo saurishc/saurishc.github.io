@@ -26,7 +26,7 @@ tags: [documentation,sample]
   - incompressible & compressible flows
   - laminar & turbulent flows
   - rotational & irrotational flows
-- Euler equation and Navier-Stokes equation
+- [Euler equation](https://saurishc.github.io/fluidBasics#eulers-equation) and Navier-Stokes equation
 - Qualitative description of turbulence, Reynolds number
 
 # References
