@@ -7,7 +7,7 @@ tags: [documentation,sample]
 ---
 
 # Syllabus
-- Basic physics of fluids
+- [Basic physics of fluids](https://saurishc.github.io/fluidBasics)
   - the continuum hypothesis
   - concept of fluid element or fluid parcel
   - definition of a fluid
