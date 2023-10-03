@@ -6,7 +6,7 @@ permalink: /teaching
 I have been teaching at APC College since 2020. Before that, in 2012, I taught a regular semester-long course in summer at Washington University in St. Louis. The list given below contains the topics that I have taught.\
 The codes next to the topics (mentioned in parantheses) have the following meanings -- 
 A: B.Sc. Physics Honours, G: B.Sc. Physics General, P: M.Sc. Physics. E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.\
-See the links below for the syllabi.\
+See the links below for the syllabi.
 - <a href="https://saurishc.github.io/bscSyllabus-wbsu-nep-firstYear.pdf">B.Sc. First Year under NEP</a>
 - <a href="https://saurishc.github.io/bscSyllabus.pdf">B.Sc. under CBCS (for students who joined before 2023)</a>
 - <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc.</a><br/>
@@ -17,11 +17,11 @@ See the links below for the syllabi.\
   - Gravitation (1G)
   - Oscillations (1G)
   - Elasticity (1G)
-  - Digital Circuits (3A) 
+  - [Digital Circuits (3A)](https://saurishc.github.io/digitalSyllabus)
   - Quantum Mechanics -- Bound States in an Arbitrary Potential (5A)
   - Quantum Mechanics -- Hydrogen-like Atoms (5A)
   - Dynamical Systems (5A)
-  - Fluid Dynamics (5A)
+  - [Fluid Mechanics (5A)](https://saurishc.github.io/fluidMechanics)
   - Quantum Mechanics Lab (5A)
   - Classical Chaos (1P)
   - Lagrangian Formulation for Continuous Systems (1P)
