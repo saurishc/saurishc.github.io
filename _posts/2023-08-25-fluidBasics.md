@@ -7,7 +7,12 @@ tags: [documentation,sample]
 ---
 
 ## Distinction between Solids and Fluids
-When we interact with a solid (apply a force on it), it bends (deforms/changes shape) -- the amount of deformation depends on the force. When we apply a force on a liquid, it flows -- its deformation increases with time. Many materials exhibit both solid-like and fluid-like characters (viscoelastic materials). In this course, we will discuss only simple fluids in which arbitrarily small forces result in macroscopic deformations (change in relative positions of its elements).
+When we interact with a solid (apply a force on it), it bends (deforms/changes shape) -- the amount of deformation depends on the force. When we apply a force on a fluid, it flows -- its deformation increases with time.
+
+#### Definition
+_A fluid is a material in which small (suitably chosen) forces can change the relative positions of its elements by a significant (not small) amount. A fluid deforms continuously under the application of a shear stress, however small._
+
+Many materials exhibit both solid-like and fluid-like characters (viscoelastic materials). In this course, we will discuss only simple fluids in which arbitrarily small forces result in macroscopic deformations (change in relative positions of its elements).
 
 ## The Continuum Hypothesis
 
