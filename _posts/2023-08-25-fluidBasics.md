@@ -137,4 +137,9 @@ $$
 
 The above derivation assumes an ideal fluid in which dissipative forces are unimportant, _i.e._, there is no viscosity or thermal conductivity.
 
+Under uniform gravitational field, if we have a fluid at rest, then, Euler's equation implies that $\vec{\nabla}p=\rho \vec{g}$. If $g=(0,0,-g)$, then, integrating, we get, $p=-\rho g z+constant$.
+
+
+
+
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
