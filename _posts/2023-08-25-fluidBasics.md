@@ -139,7 +139,11 @@ The above derivation assumes an ideal fluid in which dissipative forces are unim
 
 Under uniform gravitational field, if we have a fluid at rest, then, Euler's equation implies that $\vec{\nabla}p=\rho \vec{g}$. If $g=(0,0,-g)$, then, integrating, we get, $p=-\rho g z+constant$. Now, if the fluid has a free surface at a height, $z=h,$ at which the pressure is the atmospheric pressure, $p_0$, then we have, $p=p_0+\rho g(h-z)$.
 
+## The Two Kinds of Forces in a Fluid
 
+There are two kinds of forces which act on a fluid element.
 
+1. Long Range Forces. This includes the gravitational force and the electrostatic force (for fluids with charge).
+2. Short Range Forces / Contact Forces. This includes intermolecular forces such as van der Waals forces.
 
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
