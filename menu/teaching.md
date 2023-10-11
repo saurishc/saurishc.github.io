@@ -24,7 +24,7 @@ See the links below for the syllabi.
   - [Fluid Mechanics (5A)](https://saurishc.github.io/fluidMechanics)
   - Quantum Mechanics Lab (5A)
   - Classical Chaos (1P)
-  - Lagrangian Formulation for Continuous Systems (1P)
+  - [Lagrangian Formulation for Continuous Systems (1P)](https://saurishc.github.io/classicalFields)
   - Computational Physics Lab (3P)
 - Even Semester, 2023
   - Diffraction & Holography (2A)
