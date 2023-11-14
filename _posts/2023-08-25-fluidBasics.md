@@ -146,4 +146,8 @@ There are two kinds of forces which act on a fluid element.
 1. Long Range Forces. This includes the gravitational force and the electrostatic force (for fluids with charge).
 2. Short Range Forces / Contact Forces. This includes intermolecular forces such as van der Waals forces.
 
+For a fluid element of volume $dV$, the long range forces act over the entire bulk of the element. For a force field for which the force per unit mass is $\vec{F}$, the force experienced by the volume element is $\vec{F}\ \rho\ dV$.
+
+The short range forces cannot penetrate into the bulk of the element and act along the surface only.
+
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
