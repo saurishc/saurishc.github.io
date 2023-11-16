@@ -146,8 +146,9 @@ There are two kinds of forces which act on a fluid element.
 1. Long Range Forces. This includes the gravitational force and the electrostatic force (for fluids with charge).
 2. Short Range Forces / Contact Forces. This includes intermolecular forces such as van der Waals forces.
 
-For a fluid element of volume $dV$, the long range forces act over the entire bulk of the element. For a force field for which the force per unit mass is $\vec{F}$, the force experienced by the volume element is $\vec{F}\ \rho\ dV$.
+For a fluid element of volume $dV$, the long range forces act over the entire bulk of the element. For a force field for which the force per unit mass is $\vec{F}$, the force experienced by the volume element at $\vec{x}$ at time $t$ is $\vec{F}(\vec{x},t)\rho dV$.
 
-The short range forces cannot penetrate into the bulk of the element and act along the surface only.
+The short range forces cannot penetrate into the bulk of the element and act along the surface only. Consider a surface element in the fluid whose area is $dA$ and with a normal vector $\hat{n}$. The force due to the short range forces on this surface element is proportional to $dA$. This force also depends on
+the orientation of the surface element, _i.e._, on $\hat{n}$. Thus, we can denote the force on the surface element at $\vec{x}$ at time $t$ by $\vec{\Sigma}(\hat{n},\vec{x},t)dA$. By convention, this is the force by the fluid towards which $\hat{n}$ points on the flud on the other side of the surface element. Here $\vec{\Sigma}$ represents the local _stress_. From Newton's third law of motion, it is clear that $\vec{\Sigma}$ is an odd function of $\hat{n}$, _i.e._, $\vec{\Sigma}(-\hat{n},\vec{x},t)=-\vec{\Sigma}(\hat{n},\vec{x},t)$.
 
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
