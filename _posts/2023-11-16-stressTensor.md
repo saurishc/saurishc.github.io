@@ -13,7 +13,8 @@ Consider a tetrahedral volume element as shown in the figure below. It has three
 The fourth face has an area $dA$ and a normal $\hat{n}$ pointing out of the volume element. For the orthogonal faces, the outward normals are in directions, $-\hat{a}$, $-\hat{c}$ and $-\hat{g}$, respectively. The sum of the surface forces on the fluid element is therefore given by,
 
 $$
-\vec{\Sigma}(\hat{n})dA+\vec{\Sigma}(-\hat{a})dA_1+\vec{\Sigma}(-\hat{c})dA_2+\vec{\Sigma}(-\hat{g})dA_3 =
+\vec{\Sigma}(\hat{n})dA+\vec{\Sigma}(-\hat{a})dA_1+\vec{\Sigma}(-\hat{c})dA_2+\vec{\Sigma}(-\hat{g})dA_3\\
+=
 \vec{\Sigma}(\hat{n})dA-\vec{\Sigma}(\hat{a})dA_1-\vec{\Sigma}(\hat{c})dA_2-\vec{\Sigma}(\hat{g})dA_3.
 $$
 
