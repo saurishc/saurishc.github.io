@@ -52,6 +52,17 @@ $$
 \right)n_j
 $$
 
-where we have also expanded the dot products and used Einstein's summation convention.
+where we have also expanded the dot products and used Einstein's summation convention. Now, since $\hat{n}$ and $\vec{\Sigma}$ are not dependent on the choice of the orthogonal faces used in the above treatment, $\left(
+\Sigma_i(\hat{a})a_j
++\Sigma_i(\hat{c})c_j
++\Sigma_i(\hat{g})g_j
+\right)$ must be independent of $\hat{a}$, $\hat{c}$ and $\hat{g}$ and must be the $(i,j)$ component of some second rank tensor (here, a $3\times3$ matrix). That is,
+
+$$
+\Sigma_i(\hat{n})
+=\sigma_{ij}n_j.
+$$
+
+Here, $\sigma_{ij}(\vec{x},t)$ represents the $(i,j)$ component of the local _stress tensor_.
 
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
