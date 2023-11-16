@@ -151,4 +151,6 @@ For a fluid element of volume $dV$, the long range forces act over the entire bu
 The short range forces cannot penetrate into the bulk of the element and act along the surface only. Consider a surface element in the fluid whose area is $dA$ and with a normal vector $\hat{n}$. The force due to the short range forces on this surface element is proportional to $dA$. This force also depends on
 the orientation of the surface element, _i.e._, on $\hat{n}$. Thus, we can denote the force on the surface element at $\vec{x}$ at time $t$ by $\vec{\Sigma}(\hat{n},\vec{x},t)dA$. By convention, this is the force by the fluid towards which $\hat{n}$ points on the flud on the other side of the surface element. Here $\vec{\Sigma}$ represents the local _stress_. From Newton's third law of motion, it is clear that $\vec{\Sigma}$ is an odd function of $\hat{n}$, _i.e._, $\vec{\Sigma}(-\hat{n},\vec{x},t)=-\vec{\Sigma}(\hat{n},\vec{x},t)$.
 
+[Next (Stress Tensor)](https://saurishc.github.io/stressTensor)
+
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
