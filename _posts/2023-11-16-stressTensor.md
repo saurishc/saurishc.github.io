@@ -31,9 +31,9 @@ $$
 Now, for the volume element, writing Newton's second law, we get,
 
 $$
-\rho dV\times acceleration
+\rho dV\times \text{acceleration}
 =
-(sum of bulk forces)+(sum of surface forces)
+(\text{sum of bulk forces})+(\text{sum of surface forces})
 $$
 
 The sum of bulk forces is proportional to $dV$ but the sum of surface forces is proportional to $dA$. As the volume element is made arbitrarily small, we get an inconsistency, _i.e._, the left hand side of this equation become negligible compared to the sum of surface forces. This means that the net surface force must vanish. Thus, we get,
