@@ -52,7 +52,7 @@ Each of these identities can be proved by constructing corresponding truth table
 |0|1|0|0|
 |1|0|0|1|
 |1|1|1|1|
-|---|---|---|---|
 
 The first and fourth columns are identical. Hence, $A+AB=A$.
 
+For two inputs, the truth table has four rows. In each of those rows, the output can be either 0 or 1. Thus, for are 16 possible gates/operations/truth tables that combine two inputs.
