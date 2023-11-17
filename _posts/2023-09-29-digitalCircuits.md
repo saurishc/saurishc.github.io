@@ -50,9 +50,40 @@ Each of these identities can be proved by constructing corresponding truth table
 |---|---|---|---|
 |0|0|0|0|
 |0|1|0|0|
-|1|0|0|1|
-|1|1|1|1|
+|1|1|0|1|
+|1|0|1|1|
 
 The first and fourth columns are identical. Hence, $A+AB=A$.
 
-For two inputs, the truth table has four rows. In each of those rows, the output can be either 0 or 1. Thus, for are 16 possible gates/operations/truth tables that combine two inputs.
+For two inputs, the truth table has four rows. In each of those rows, the output can be either 0 or 1. Thus, for are 16 possible gates/operations/truth tables that combine two inputs. Let us identify these 16 gates.
+
+1. Always off / Output disconnected: Output is 0 irrespective of the inputs
+2. Always on: Output is 1 irrespective of the inputs
+3. Output equals $A$
+4. Output equals $B$
+5. Output equals $\overline{A}$
+6. Output equals $\overline{B}$
+7. And gate ($AB$)
+8. Or gate ($A+B$)
+9. $A\overline{B}$
+|$A$|$B$|$A\overline{B}$|
+|---|---|---|
+|0|0|0|
+|0|1|0|
+|1|1|0|
+|1|0|1|
+10. $\overline{A}B$
+|$A$|$B$|$\overline{A}B$|
+|---|---|---|
+|0|0|0|
+|0|1|1|
+|1|1|0|
+|1|0|0|
+11. $A+\overline{B}$
+|$A$|$B$|$A+\overline{B}$|
+|---|---|---|
+|0|0|1|
+|0|1|0|
+|1|1|1|
+|1|0|1|
+
