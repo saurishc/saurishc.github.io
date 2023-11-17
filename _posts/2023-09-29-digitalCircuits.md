@@ -43,3 +43,16 @@ All these operations satisfy the closure property, _i.e._, the result is also a 
 14. $A+BC=(A+B)(A+C)$ (addition is distributive over multiplication -- not true in ordinary algebra)
 15. $\overline{A+B}=\overline{A}\cdot\overline{B}$ (first de Morgan's Law)
 16. $\overline{AB}=\overline{A}+\overline{B}$ (second de Morgan's Law)
+
+Each of these identities can be proved by constructing corresponding truth tables. _E.g._, proof for $A+AB=A$ is established using the following truth table.
+
+|$A$|$B$|$AB$|$A+AB$|
+|---|---|---|---|
+|0|0|0|0|
+|0|1|0|0|
+|1|0|0|1|
+|1|1|1|1|
+|---|---|---|---|
+
+The first and fourth columns are identical. Hence, $A+AB=A$.
+
