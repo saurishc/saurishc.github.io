@@ -65,4 +65,33 @@ $$
 
 Here, $\sigma_{ij}(\vec{x},t)$ represents the $(i,j)$ component of the local _stress tensor_.
 
+### The Stress Tensor is Symmetric
+
+Let us try to show that the stress tensor is a symmetric tensor. The moment due to surface forces is given by,
+
+$$
+\int \vec{r}\times\vec{dF}^{surface}.
+$$
+
+The $i$-th component of the moment is,
+
+$$
+\int \epsilon_{ijk}r_jdF^{surface}_k\\
+=\int \epsilon_{ijk}r_j\sigma_{kl}n_l dA\\
+=\int \epsilon_{ijk}\frac{\partial r_j\sigma_{kl}}{\partial r_l}dV\\
+=\int \epsilon_{ijk}\left(\delta_{jl}\sigma_{kl}+r_j\frac{\partial(\sigma_{kl})}{\partial r_l}\right)dV\\
+=\int \epsilon_{ijk}\left(\sigma_{kj}+r_j\frac{\partial(\sigma_{kl})}{\partial r_l}\right)dV
+$$
+
+For an arbitrarily small volume, $\Delta V$, the first term of this integral is proportional to $\Delta V$ and the second term has an extra factor of 
+the linear size and is therefore proportional to $\Delta V^{4/3}$. The net moment must be proportional $\Delta V^{4/3}$ and the first term must identically vanish. Thus,
+
+$$
+\epsilon_{ijk}\sigma_{kj}=0.
+$$
+
+For $i=1$, we get, $\sigma_{32}-\sigma_{23}=0$. Similarly, going through the other values of $i$, we get, $\sigma_{ij}=\sigma_{ji}$.
+
+The diagonal components of the shear stress tensor are the _normal stresses_ and in simple isotropic situations their values are equal to the pressure in the fluid. The off-diagonal components represent tangential stresses or _shear stresses_.
+
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
