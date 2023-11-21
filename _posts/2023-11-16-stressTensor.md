@@ -96,7 +96,7 @@ The diagonal components of the shear stress tensor are the _normal stresses_ and
 
 The _principal axes_ of the stress tensor are the set of orthogonal axes for which the shear stresses are all zero. The normal stresses are then called the _principal stresses_.
 
-[Next](https://saurishc.github.io/fluidProperties)
+[Next (Fluid Properties)](https://saurishc.github.io/fluidProperties)
 
 
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
