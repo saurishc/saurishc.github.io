@@ -15,3 +15,6 @@ Such a relation is known as the _equation of state_ of the fluid. Often, the fun
 
 ## Transport phenomena
 It is common to find a fluid that is not in thermodynamic equilibrium. Different regions of the fluid have different properties. In such a situation, the fluid has a tendency to approach an equilibrium state by exchanging mechanical or thermal properties across diffrent regions of the fluid as long as there is inhomogeneity. _Transport phenomena_ refers to processes which lead to exchange of a quantity (which satisfies some conservation law) among two elements of a fluid where this quantity has different values.
+- Diffusion: If the composition of a fluid varies in space, then there is a non-zero flux of matter across any elementary surface in a direction that lowers the inhomogeneity.
+- Thermal conduction: If the temperature of different regions of a fluid are different, then heat flows across any elementary surface from its hotter to its colder side.
+- Viscosity: If the continuum velocity in a fluid is non-uniform, then there are non-zero shear stresses in different regions of the fluid. For an elementary surface across which the fluid velocity is different on its two sides, a shear stress is developed so as to reduce the velocity difference.
