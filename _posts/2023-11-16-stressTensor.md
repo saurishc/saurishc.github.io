@@ -92,6 +92,11 @@ $$
 
 For $i=1$, we get, $\sigma_{32}-\sigma_{23}=0$. Similarly, going through the other values of $i$, we get, $\sigma_{ij}=\sigma_{ji}$.
 
-The diagonal components of the shear stress tensor are the _normal stresses_ and in simple isotropic situations their values are equal to the pressure in the fluid. The off-diagonal components represent tangential stresses or _shear stresses_.
+The diagonal components of the shear stress tensor are the _normal stresses_ and in simple isotropic situations their values are equal to the negative of the pressure in the fluid. The off-diagonal components represent tangential stresses or _shear stresses_.
+
+The _principal axes_ of the stress tensor are the set of orthogonal axes for which the shear stresses are all zero. The normal stresses are then called the _principal stresses_.
+
+[Next](https://saurishc.github.io/fluidProperties)
+
 
 [Back to syllabus](https://saurishc.github.io/fluidMechanics)
