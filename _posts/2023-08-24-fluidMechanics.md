@@ -12,7 +12,7 @@ tags: [documentation,sample]
   - concept of fluid element or fluid parcel
   - definition of a fluid
   - shear stress
-- Fluid properties
+- [Fluid properties](https://saurishc.github.io/fluidProperties)
   - viscosity
   - thermal conductivity
   - mass diffusivity
