@@ -18,3 +18,11 @@ It is common to find a fluid that is not in thermodynamic equilibrium. Different
 - Diffusion: If the composition of a fluid varies in space, then there is a non-zero flux of matter across any elementary surface in a direction that lowers the inhomogeneity.
 - Thermal conduction: If the temperature of different regions of a fluid are different, then heat flows across any elementary surface from its hotter to its colder side.
 - Viscosity: If the continuum velocity in a fluid is non-uniform, then there are non-zero shear stresses in different regions of the fluid. For an elementary surface across which the fluid velocity is different on its two sides, a shear stress is developed so as to reduce the velocity difference.
+
+## Linear Relation between the Flux and the Gradient of a Scalar Intensity
+Let us assume that for the transport phenomenon we study, the relevant intensity is denoted by a scalar quantity, $C$. This could be the local concentration or the local temperature. The objective of transport processes is to nullify the spatial inhomogeneity in $C$. If the flux of the quantity associated with $C$ is denoted by $\vec{f}(\vec{x},t)$, then the net flow of this quantity per unit time across a surface element, $\overrightarrow{dA}=dA\hat{n}$, is given by $\vec{f}\cdot\overrightarrow{dA}$. If the variation in $C$ is gradual (not too rapidly varying in space), then there is a linear relation between $\vec{f}$ and the gradient of $C$. This assumption of gradual variation can be quantitatively written as,
+$$
+\frac{\frac{\partial C}{\partial x}}{\frac{\partial^2 C}{\partial x^2}}\gg\text{(typical length scales of particle motion or interaction)}
+$$
+
+
