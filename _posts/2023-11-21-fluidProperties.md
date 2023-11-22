@@ -20,9 +20,20 @@ It is common to find a fluid that is not in thermodynamic equilibrium. Different
 - Viscosity: If the continuum velocity in a fluid is non-uniform, then there are non-zero shear stresses in different regions of the fluid. For an elementary surface across which the fluid velocity is different on its two sides, a shear stress is developed so as to reduce the velocity difference.
 
 ## Linear Relation between the Flux and the Gradient of a Scalar Intensity
-Let us assume that for the transport phenomenon we study, the relevant intensity is denoted by a scalar quantity, $C$. This could be the local concentration or the local temperature. The objective of transport processes is to nullify the spatial inhomogeneity in $C$. If the flux of the quantity associated with $C$ is denoted by $\vec{f}(\vec{x},t)$, then the net flow of this quantity per unit time across a surface element, $\overrightarrow{dA}=dA\hat{n}$, is given by $\vec{f}\cdot\overrightarrow{dA}$. If the variation in $C$ is gradual (not too rapidly varying in space), then there is a linear relation between $\vec{f}$ and the gradient of $C$. This assumption of gradual variation can be quantitatively written as,
+Let us assume that for the transport phenomenon we study, the relevant intensity is denoted by a scalar quantity, $C$. This could be the local concentration or the local temperature. The objective of transport processes is to nullify the spatial inhomogeneity in $C$. If the flux of the quantity associated with $C$ is denoted by $\vec{f}(\vec{x},t)$, then the net flow of this quantity per unit time across a surface element, $\overrightarrow{dA}=dA\hat{n}$, is given by $\vec{f}\cdot\overrightarrow{dA}$. If the variation in $C$ is gradual (not too rapidly varying in space), then the flux depends on the local properties of the system, _i.e._, on $C$ and the gradient of $C$.
+This assumption of gradual variation can be quantitatively written as,
+
 $$
-\frac{\frac{\partial C}{\partial x}}{\frac{\partial^2 C}{\partial x^2}}\gg\text{(typical length scales of particle motion or interaction)}
+\frac{\frac{\partial C}{\partial x}}{\frac{\partial^2 C}{\partial x^2}}\gg\text{(typical length scales of particle motion or interaction).}
 $$
 
+In addition, if the magnitude of $\vec{nabla}C$ is small, there is a linear relation between the components of $\vec{f}$ and those of $\vec{nabla}C$. This is understood as we need a relation for which,
+- the flux vanishes if there is no spatial gradient
+- the flux reverses sign if spatial gradient reverses sign.
 
+Thus,
+$$
+f_i=k_{ij}\frac{\partial C}{\partial x_j},
+$$
+
+where $k_{ij}$ are the components of a second rank tensor, which is known as the _transport coefficient_ corresponding to the transport phenomenon described by $C$. In isotropic situations, the off-diagonal components of $k_{ij}$ must vanish and the diagonal components must be equal. Assuming $k_{ij}=-k\delta_{ij}$, $\vec{f}=-k\vec{\nabla}C$ (the minus sign has been inserted so that the magnitude of $k$ turns out to be positive).
