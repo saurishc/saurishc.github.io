@@ -27,7 +27,7 @@ $$
 \frac{\frac{\partial C}{\partial x}}{\frac{\partial^2 C}{\partial x^2}}\gg\text{(typical length scales of particle motion or interaction).}
 $$
 
-In addition, if the magnitude of $\vec{\nabla}C$ is small, there is a linear relation between the components of $\vec{f}$ and those of $\vec{\nabla}C$. This is understood as we need a relation for which,
+In addition, if the magnitude of $\vec{\nabla}C$ is small, then there is a linear relation between the components of $\vec{f}$ and those of $\vec{\nabla}C$. This is understood as we need a relation for which,
 - the flux vanishes if there is no spatial gradient
 - the flux reverses sign if spatial gradient reverses sign.
 
@@ -37,3 +37,6 @@ f_i=k_{ij}\frac{\partial C}{\partial x_j},
 $$
 
 where $k_{ij}$ are the components of a second rank tensor, which is known as the _transport coefficient_ corresponding to the transport phenomenon described by $C$. In isotropic situations, the off-diagonal components of $k_{ij}$ must vanish and the diagonal components must be equal. Assuming $k_{ij}=-k\delta_{ij}$, $\vec{f}=-k\vec{\nabla}C$ (the minus sign has been inserted so that the magnitude of $k$ turns out to be positive).
+
+### Diffusion
+Consider a fluid in which a fraction $C$ of the molecules are marked/labelled in some way.
