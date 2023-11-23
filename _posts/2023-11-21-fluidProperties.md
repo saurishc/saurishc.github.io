@@ -27,7 +27,7 @@ $$
 \frac{\frac{\partial C}{\partial x}}{\frac{\partial^2 C}{\partial x^2}}\gg\text{(typical length scales of particle motion or interaction).}
 $$
 
-In addition, if the magnitude of $\vec{nabla}C$ is small, there is a linear relation between the components of $\vec{f}$ and those of $\vec{nabla}C$. This is understood as we need a relation for which,
+In addition, if the magnitude of $\vec{\nabla}C$ is small, there is a linear relation between the components of $\vec{f}$ and those of $\vec{\nabla}C$. This is understood as we need a relation for which,
 - the flux vanishes if there is no spatial gradient
 - the flux reverses sign if spatial gradient reverses sign.
 
