@@ -39,4 +39,8 @@ $$
 where $k_{ij}$ are the components of a second rank tensor, which is known as the _transport coefficient_ corresponding to the transport phenomenon described by $C$. In isotropic situations, the off-diagonal components of $k_{ij}$ must vanish and the diagonal components must be equal. Assuming $k_{ij}=-k\delta_{ij}$, $\vec{f}=-k\vec{\nabla}C$ (the minus sign has been inserted so that the magnitude of $k$ turns out to be positive).
 
 ### Diffusion
-Consider a fluid in which a fraction $C$ of the molecules are marked/labelled in some way.
+Consider a fluid in which a fraction $C$ of the molecules are marked/labelled in some way. Let $\vec{f}$ denote the flux corresponding to $C$. Thus, using the symbol, $\kappa_D$, to represent the _coefficient of diffusion_, we may write, $\vec{f}=-k_D\vec{\nabla}C$. The net transfer of labelled fluid out of a closed surface is therefore given by,
+
+$$
+\int \vec{f}\cdot\overrightarrow{dA}=-\int k_D\vec{\nabla}C\cdot\overrightarrow{dA}
+$$
