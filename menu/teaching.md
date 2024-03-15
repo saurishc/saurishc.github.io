@@ -12,6 +12,24 @@ See the links below for the syllabi.
 - <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc.</a><br/>
 
 ### Topics that I am teaching or have taught in the past
+- Even Semester, 2024
+  - Fundamentals of Dynamics (2A)
+  - Work and Energy (2A)
+  - Collisions (2A)
+  - Rotational Dynamics (2A)
+  - <a href="https://saurishc.github.io/complex">Complex Analysis</a> (4A)
+  - Collection of Identical Entities -- Classical Approach (4A)
+  - Skill Enhancement Course (Fortran & $\LaTeX$) (4A)
+  - Mathematical Physics III Lab (4A)
+  - [Quantum Statistical Mechanics (6A)](https://saurishc.github.io/statmechBSc)
+  - Statistical Mechanics Lab (6A)
+  - Detector for Nuclear Radiations (6G)
+  - Particle Accelerators (6G)
+  - Particle Physics (6G)
+  - Quantum Statistical Mechanics (2P)
+  - Special Topics in Statistical Mechanics (2P)
+  - Teaching Skills (2P)
+  - Project Work (4P)
 - Odd Semester, 2023
   - Mathematical Physics Lab (1A)
   - Gravitation (1G)
@@ -79,6 +97,7 @@ See the links below for the syllabi.
   - <a href="https://saurishc.github.io/complex">Complex Analysis</a> (4A)
   - Boundary Value Problems (4A)
   - Skill Enhancement Course (C++ & LaTeX) (4A)
+  - Mathematical Physics III Lab (4A)
   - Quantum Statistical Mechanics (2P)
   - Special Topics in Statistical Mechanics (2P)
   - Symmetry in Crystals (4P)
@@ -96,6 +115,7 @@ See the links below for the syllabi.
   - <a href="https://saurishc.github.io/complex">Complex Analysis</a> (4A)
   - Boundary Value Problems (4A)
   - Skill Enhancement Course (LaTeX) (4A)
+  - Mathematical Physics III Lab (4A)
   - Quantum Statistical Mechanics (2P)
   - <a href="https://saurishc.github.io/complex">Complex Analysis</a> (2P)
   - Special Topics in Statistical Mechanics (2P)
