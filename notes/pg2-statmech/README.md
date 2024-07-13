@@ -1,3 +1,15 @@
+## Quantum Statistical Mechanics, Ideal Bose and Fermi Gases
+[qsm2021-01.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-01.pdf)
+
+[qsm2021-02.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-02.pdf)
+
+[qsm2021-03.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-03.pdf)
+
+[qsm2021-04.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-04.pdf)
+
+[qsm2021-05.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-05.pdf)
+
+## Special Topics
 [statMechSpecial01_IsingIntro1D.pdf](https://saurishc.github.io/notes/pg2-statmech/statMechSpecial01_IsingIntro1D.pdf)
 
 [statMechSpecial02_IsingBraggWilliams.pdf](https://saurishc.github.io/notes/pg2-statmech/statMechSpecial02_IsingBraggWilliams.pdf)
