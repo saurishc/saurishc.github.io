@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Statistical Mechanics Lecture Notes (M.Sc. 2nd Semester)"
 ---
 
