@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Statistical Mechanics Lecture Notes (M.Sc. 2nd Semester)"
+title: Statistical Mechanics Lecture Notes (M.Sc. 2nd Semester)
 ---
 
 ## Quantum Statistical Mechanics, Ideal Bose and Fermi Gases
