@@ -1,7 +1,7 @@
 **Statistical Mechanics Lecture Notes (M.Sc. 2nd Semester)**
 - Quantum Statistical Mechanics, Ideal Bose and Fermi Gases
   * [qsm2021-01.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-01.pdf)
-  * * [qsm2021-02.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-02.pdf)
+  * [qsm2021-02.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-02.pdf)
   * [qsm2021-03.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-03.pdf)
   * [qsm2021-04.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-04.pdf)
   * [qsm2021-05.pdf](https://saurishc.github.io/notes/pg2-statmech/qsm2021-05.pdf)
