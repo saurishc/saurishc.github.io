@@ -1,1 +1,2 @@
-This will contain notes for Mathematical Physics I Lab (B.Sc. Sem I).
+**Mathematical Physics I Lab Lecture Notes (B.Sc. Sem I)**
+- [GNU Plot](https://saurishc.github.io/notes/ug1-MathPhysLab/01-gnuplot.pdf)
