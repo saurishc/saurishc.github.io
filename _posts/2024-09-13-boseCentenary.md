@@ -15,7 +15,7 @@ In the first talk, Dr. Debnarayan Jana discussed Bose statistics, its applicatio
 - Calculate the difference of the number and its reversed version. Take the magnitude of this.
 - If the answer is not a three digit number, then multiply it by two.
 - The sum of this number and its reversed version should be independent of the starting three digit 
-number.
+number -- Magic?
 
 Dr. Jana then showed us many pictures of Bose with his immensely bright contemporaries and teachers 
 -- Acharya Jagadish Chandra Bose, Acharya Prafulla Chandra Roy, Megnnad Saha, Prasanta Chandra Mahalanobis and many others. Incidentally, Dr. Jana happened to occupy the same office in Rajabazar Science College as the one which S. N. Bose occupied. We also came to know about the modest nature of Bose -- referring to himself as the "one who translated the paper of generalized relativity" while writing to Einstein.
