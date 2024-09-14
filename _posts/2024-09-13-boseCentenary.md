@@ -26,7 +26,7 @@ Dr. Jana also talked about the *equation of state* developed by Saha and Bose. A
 
 Dr. Jana's talk ended with some more anecdotes and an interesting Q&A session.
 
-Dr. Manik Banik, our other speaker, gave a talk titled "Nature is Nonlocal Ultimately: Einstein's notion of Local-Realism and Bell's Theorem". Comparing scientists with emperors, Dr. Banik quoted George Bernard Shaw about Ptolemy's 1400 year "reign", Newton's 300 year reign and about the ongoing reign of Einstein. Towards the end of his talk, Dr. Banik convinced us that unlike other scientists who proposed new theories, Bell's reign would be unending.
+Dr. Manik Banik, our other speaker, gave a talk titled "Nature is Nonlocal Ultimately: Einstein's notion of Local-Realism and Bell's Theorem". Comparing scientists to emperors, Dr. Banik quoted George Bernard Shaw about Ptolemy's 1400 year "reign", Newton's 300 year reign and about the ongoing reign of Einstein. Towards the end of his talk, Dr. Banik convinced us that unlike other scientists who proposed new theories, Bell's reign would be unending.
 
 Einstein's skepticism with quantum theories is what Dr. Banik stared with. He talked about the special relativistic bound on the speed and how Newton's theory did not respect it. He then talked about a simple entangled state -- the singlet state. Using it, he went on to discuss the famous *Einstein-Podolsky-Rosen (EPR)* thought experiment and how it apparently violated existing physical theories. He introduced the notion of *hidden variables*, locality and *non-locality*, and, that according to Bell, quantum mechanics necessitates non-locality.
 
