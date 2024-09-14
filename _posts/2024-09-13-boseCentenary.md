@@ -22,7 +22,7 @@ Dr. Jana then showed us many pictures of Bose with his immensely bright contempo
 
 Then he went to the scientific part. He started with the black body radiation plots at different temperatures. He discussed the Saha's visit from Allahabad as an examiner and the fact that both Saha and Bose were concerned about the pre-factor in Planck's formula. Dr. Jana quickly went through the derivation of Planck's formula (which has now become a standard part of the physics curriculum). He talked about Bose's letter to Einstein and Einstein's genius at noticing the possible divergence -- which gave rise the *Bose-Einstein condensation*. Dr. Jana then spent some time on the first experiment which successfully prepared a Bose-Einstein condensate about seven decades after its theoretical prediction. He talked about the *six-laser setup* and about *magnetic evaporative cooling* -- the technological advances without which the experiment would not be possible.
 
-Dr. Jana also talked about the *equation of state* developed by Saha and Bose. It is one of the few equations which simultaneously involve a logarithm and an exponential. Dr. Jana talked about his own work calculating the critical exponents of the Saha-Bose equation of state. He also talked about some of his early works involving bosons and Bose statistics.
+Dr. Jana also talked about the *equation of state* developed by Saha and Bose. A unique thing about this equation is that it simultaneously has a logarithm and an exponential. Dr. Jana talked about his own work calculating the critical exponents of the Saha-Bose equation of state. He also talked about some of his early works involving bosons and Bose statistics.
 
 Dr. Jana's talk ended with some more anecdotes and an interesting Q&A session.
 
