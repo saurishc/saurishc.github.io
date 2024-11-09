@@ -63,7 +63,7 @@ This is known as the _equation of continuity_. Here, $\rho\vec{v}$ represents th
 
 ## Euler's Equation
 
-The total force acting on an arbitrary volume $V_0$ in a fluid is the sum of the forces on the elements of the surrounding surface. Thus,
+The total force acting on an arbitrary volume $V_0$ in a fluid is the sum of the forces on the elements of the surrounding surface. This force is therefore given by,
 
 $$
 -\oint p\ \overrightarrow{dS}=-\int\vec{\nabla}p\ dV
