@@ -41,16 +41,16 @@ $$
 \oint \vec{\nabla}\cdot\left(\rho\vec{v}\right)dV
 $$
 
-The decrease in mass of the liquid in $V_0$ per unit time can be written as,
+The increase in mass of the liquid in $V_0$ per unit time can be written as,
 
 $$
 \frac{d}{dt}\int\rho dV=\int\frac{\partial\rho}{\partial t}dV
 $$
 
-This decrease can only be because of fluid particles moving out of $V_0$. Thus,
+A negative value for this implies a decrease in mass, i.e., the negative of the above quantity is the decrease in the mass of the system per unit time. This decrease can only be because of fluid particles moving out of $V_0$. Thus, equating the two expressions for the decrease in mass per unit time and rearranging, we get,
 
 $$
-\int\left(\frac{\partial\rho}{\partial t}+\vec{\nabla}\cdot\left(\rho\vec{v}\right)\right)dV=0
+\int\left(\frac{\partial\rho}{\partial t}\vec{\nabla}\cdot\left(\rho\vec{v}\right)\right)dV=0.
 $$
 
 Since this must be true for any volume, the integrand itself must be zero at any point in the fluid, _i.e._,
