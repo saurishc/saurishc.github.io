@@ -7,9 +7,9 @@ I have been teaching at APC College since 2020. Before that, in 2012, I taught a
 The codes next to the topics (mentioned in parantheses) have the following meanings -- 
 A: B.Sc. Physics Honours, G: B.Sc. Physics General, P: M.Sc. Physics. E.g., 3A: Third semester honours course, 4P: Fourth semester M.Sc. course.\
 See the links below for the syllabi.
-- <a href="https://saurishc.github.io/bscSyllabus-wbsu-nep-firstYear.pdf">B.Sc. First Year under NEP</a>
-- <a href="https://saurishc.github.io/bscSyllabus.pdf">B.Sc. under CBCS (for students who joined before 2023)</a>
-- <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">M.Sc.</a><br/>
+- <a href="https://drive.google.com/file/d/1hlgZsRxGk0olkDiSGJu2e63ukpFXNJjr/view?usp=sharing">WBSU B.Sc. Syllabus under NEP</a>
+- <a href="https://saurishc.github.io/bscSyllabus.pdf">WBSU B.Sc. Syllabus under CBCS (for students who joined before 2023)</a>
+- <a href="https://saurishc.github.io/mscSyllabusAPC.pdf">APC College M.Sc. Syllabus</a><br/>
 
 ### Topics that I am teaching or have taught in the past
 - Even Semester, 2024
