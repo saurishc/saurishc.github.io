@@ -5,3 +5,5 @@
 [UG1 Mathematical Physics I Lab](https://saurishc.github.io/notes/ug1-MathPhysLab)
 
 [PG3 Nanoscience](https://drive.google.com/open?id=1CC0ua9LgBEsl7hxViH5EZS1JL6XxdSgE&usp=drive_fs)
+
+[PG3 Defects in Crystals](https://drive.google.com/open?id=12BCNHowVJpUMqcWpL7VAL7N3viswwOgt&usp=drive_fs)
