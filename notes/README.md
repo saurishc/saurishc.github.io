@@ -4,4 +4,4 @@
 
 [UG1 Mathematical Physics I Lab](https://saurishc.github.io/notes/ug1-MathPhysLab)
 
-[PG3 Nanoscience](https://drive.google.com/file/d/1-3qRvQ_GWkE0TqSAlaNn5K_ZRYHG9_A7/view?usp=sharing)
+[PG3 Nanoscience](https://drive.google.com/open?id=1CC0ua9LgBEsl7hxViH5EZS1JL6XxdSgE&usp=drive_fs)
