@@ -1,4 +1,4 @@
-** Lecture Notes **
+**Lecture Notes**
 
 [UG1 Mathematical Physics I Lab](https://saurishc.github.io/notes/ug1-MathPhysLab)
 
