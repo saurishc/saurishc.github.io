@@ -4,6 +4,8 @@
 
 [UG3 Diffraction and Holography](https://drive.google.com/open?id=1gHwi5FhlI47x8Q-HlTcvZRU-iAsQIeL1&usp=drive_fs)
 
+[UG4 Probability](https://saurishc.github.io/notes/ug4-probability/Probability.pdf)
+
 [UG6 Statistical Mechanics](https://saurishc.github.io/notes/ug6-statmech)
 
 [PG1 Classical Mechanics](https://saurishc.github.io/notes/pg1-classicalmech)
