@@ -6,6 +6,8 @@
 
 [UG4 Probability](https://saurishc.github.io/notes/ug4-probability/Probability.pdf)
 
+[UG4 Probability](https://saurishc.github.io/notes/ug4-probability/SpecialIntegrals.pdf)
+
 [UG4 Mathematical Physics II Lab](https://saurishc.github.io/notes/ug4-mathPhysLab2/Numerical_Methods.pdf)
 
 [UG6 Statistical Mechanics](https://saurishc.github.io/notes/ug6-statmech)
