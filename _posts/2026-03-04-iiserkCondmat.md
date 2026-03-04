@@ -16,7 +16,7 @@ The conference started with a talk by Dibyendu Das (IIT Bombay), one of my favor
 
 Then, Sayan Choudhury (HRI) presented an interesting discussion about discrete time crystals. He touched upon ideas such as Floquet Eigenstate Thermalization Hypothesis, Many Body Localization as a route to obtain a time crystal and Long Range interaction as the route he chose to use for his work. As a tool, he talked about a decorrelator which is related (but different) with another decorrelator I am more acquainted with in connection with spreading of chaos in many-body systems.
 
-Abhik Basu from SINP discussed the KPZ model. The thing I remember from his discussion is the fact that there is no order parameter for the KPZ transition.
+Abhik Basu from SINP discussed the KPZ model. The thing I remember from his discussion is the fact that there is no bona fide order parameter for the KPZ transition.
 
 Apratim Chatterji (IISER Pune) applied physics tools to problems in microbiology and emphasized the importance of entropy in the demixing of polymers.
 
@@ -28,7 +28,7 @@ On the second day, Darshan Joshi from TIFR Hyderabad talked abut Quantum Spin Gl
 
 Rejish Nath, IISER Pune, discussed pattern formation in spin-1 systems using numerical solutions of the Gross-Pitaevskii equation.
 
-Subir Das from JNCASR started his discussion from the Mpemba effect and various ways of simulating it. He then went to a discussion of active matter via the Vicsek model. I noted his unusual version of Stokes-Einstein relation with a correlation length-scale being used instead of the particle radius. He also mentioned the term hyperdiffusion which is worth looking up.
+Subir Das from JNCASR started his discussion from the Mpemba effect and various ways of simulating it. He then went to a discussion of active matter via the Vicsek model. I noted his unusual version of Stokes-Einstein relation with a correlation length being used instead of the particle radius. He also mentioned the term hyperdiffusion which is worth looking up.
 
 Finally, Krishnendu Sengupta, IACS, talked about Floquet spin-1 chains. He highlighted that in the usual spin-1 chains, exact diagonalization techniques would be computationally too expensive but could only be tackled in the Floquet version. Ideas such as perthermalization reappeared in his discussion.
 
