@@ -6,8 +6,6 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**Conference on Complex Systems and Condensed Matter Physics at IISER Kolkata**
-
 On the 2nd and 3rd of March, 2026, a conference on Complex Systems and Condensed Matter Physics was organized by the Department of Physical Sciences of IISER Kolkata. Even though this was supposed to be an internal conference of the institute, the organizers obliged us when we expressed interest to attend it. From APC College, there were six students (Kankana Basu, Rhiddha Acharjee, Rushali Dey, Sayan Bhattacharya, Shagufta Khan and Sourashis Sarkar) and three teachers (Atanu Nandy, Indranil Bhattacharyya along with me) who attended the conference. All the students presented posters.
 
 In this post, I will note down some of the things I found interesting at the conference.
