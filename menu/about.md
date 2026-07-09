@@ -4,6 +4,8 @@ title: About Me
 permalink: /about
 ---
 
+![Hello!](https://saurishc.github.io/images/DSC_3099.JPG)
+
 I [teach](https://saurishc.github.io/teaching) physics at [Acharya Prafulla Chandra College](http://www.apccollege.ac.in/), New Barrackpore.
 
 ### Education
