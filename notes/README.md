@@ -14,6 +14,8 @@
 
 [UG6 Statistical Mechanics](https://saurishc.github.io/notes/ug6-statmech)
 
+[UG7 Mathematical Physics IV Lab](https://saurishc.github.io/notes/Math_Phys_IV_Lab_Sem_VII_Assignments.pdf)
+
 [PG1 Classical Mechanics](https://saurishc.github.io/notes/pg1-classicalmech)
 
 [PG2 Statistical Mechanics](https://saurishc.github.io/notes/pg2-statmech)
