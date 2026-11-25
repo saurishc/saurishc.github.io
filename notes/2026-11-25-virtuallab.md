@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "Virtual Physics Laboratory"
-author: "Saurish Chakrabarty"
-categories: journal
-tags: [documentation,sample]
 ---
 created using Gemini
 
