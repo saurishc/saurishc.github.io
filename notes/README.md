@@ -30,4 +30,4 @@
 
 [Getting Started With LaTeX](https://saurishc.github.io/notes/gettingStartedWithLaTeX.pdf)
 
-[Virtual Physics Laboratory](https://saurishc.github.io/notes/virtuallab)
+[Virtual Physics Laboratory](https://saurishc.github.io/notes/2026-11-25-virtuallab)
