@@ -29,3 +29,5 @@
 [PG3 Practice Questions](https://drive.google.com/open?id=1rBhO1iOu1SUbOqZHsN3jeYoE0O2pkKI2&usp=drive_fs)
 
 [Getting Started With LaTeX](https://saurishc.github.io/notes/gettingStartedWithLaTeX.pdf)
+
+[Virtual Physics Laboratory](https://saurishc.github.io/notes/virtuallab)
